@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>;
+<rotator isRandom="false">
+  <bannerTime>5</bannerTime>
+  <banners>
+	<banner>
+		<name>Första varianten</name>
+		<body>Bildtext</body>
+		<imagePath>http://miagrondahl.files.wordpress.com/2007/08/abu-kheir-med-nagra-av-sina-38-barnbarn-idag.jpg</imagePath>
+		<link>test</link>
+	 </banner>
+  </banners>
+</rotator>

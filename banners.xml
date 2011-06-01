@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rotator isRandom="false">
+  <bannerTime>5</bannerTime>
+  <banners>
+	<banner>
+		<name>Tentapub IV</name>
+		<body>Tentapuben har något för alla!</body>
+		<imagePath>http://www.ths.kth.se/wp-content/uploads/2011/05/tentapub_iv_banner.jpg</imagePath>
+		<link>http://www.ths.kth.se/25336/tentapub-iv/</link>
+	 </banner>
+	<banner>
+		<name>Camo & Krooked</name>
+		<body>The biggest and most talked about event in the history of clubland is here</body>
+		<imagePath>http://www.ths.kth.se/wp-content/uploads/2011/05/CAMO-KROOKED-Banner.jpg</imagePath>
+		<link>http://www.ths.kth.se/24599/discofunk/</link>
+	 </banner>
+	<banner>
+		<name>Help give our new students a good start this Autumn!</name>
+		<body>Help give our new students a good start this Autumn!</body>
+		<imagePath>http://www.ths.kth.se/wp-content/uploads/2011/05/Bli-internationell-faddery.png</imagePath>
+		<link>http://www.ths.kth.se/25137/get-involved-in-the-international-orientation/</link>
+	 </banner>
+  </banners>
+</rotator>
